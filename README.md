@@ -10,6 +10,7 @@ I built this project as part of my journey to improve my HTML and CSS layout ski
 
 
 ### Links
+- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-using-semantic-html-and-css-grid-4iMyXvOcvB
 - Live Site URL: https://reemabahabri.github.io/qr-code-component/
 
 ---
